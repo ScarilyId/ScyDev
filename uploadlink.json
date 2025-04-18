@@ -1,0 +1,126 @@
+{
+  "Resource_pack": [
+    {
+      "link": "https://mcpedl.com/ultimate-survival-texture-pack/",
+      "nama": "Ultimate Survival Texture Pack",
+      "fotolink": "https://mcpedl.com/storage/images/pack/12796/icon.png",
+      "deskripsi": "Tekstur survival dengan peningkatan kualitas dan kejelasan item."
+    },
+    {
+      "link": "https://mcpedl.com/invisible-item-frame-glow-item-frame/",
+      "nama": "Invisible Item Frame & Glow Item Frame",
+      "fotolink": "https://media.forgecdn.net/avatars/190/611/638022288950268243.png",
+      "deskripsi": "Membuat item frame tak terlihat dan bercahaya untuk dekorasi bangunan."
+    },
+    {
+      "link": "https://mcpedl.com/esp-texture-pack-1-20-for-mcpe-bedrock/",
+      "nama": "ESP Texture Pack",
+      "fotolink": "https://mcpedl.com/storage/images/pack/15365/icon.png",
+      "deskripsi": "Menandai chest, ores, dan entitas melalui blok dengan outline berwarna."
+    },
+    {
+      "link": "https://mcpedl.com/faithful-32x32-pack/",
+      "nama": "Faithful 32x PE",
+      "fotolink": "https://mcpedl.com/storage/images/pack/3513/icon.png",
+      "deskripsi": "Vanilla asli diupgrade ke resolusi 32×32 tanpa merubah gaya."
+    },
+    {
+      "link": "https://mcpedl.com/bare-bones-be/",
+      "nama": "Bare Bones",
+      "fotolink": "https://mcpedl.com/storage/images/pack/5430/icon.png",
+      "deskripsi": "Gaya minimalis dan vibrant, optimal untuk perangkat low‑end."
+    },
+    {
+      "link": "https://mcpedl.com/saturated-pack-1/",
+      "nama": "Saturated for Bedrock Edition",
+      "fotolink": "https://mcpedl.com/storage/images/pack/???/icon.png",
+      "deskripsi": "Membuat warna lebih vibrant tanpa mengubah tekstur dasar."
+    },
+    {
+      "link": "https://mcpedl.com/starswept-16x-bedrock-survival-pvp/",
+      "nama": "StarSwept 16x",
+      "fotolink": "https://mcpedl.com/storage/images/pack/???/icon.png",
+      "deskripsi": "16×16 HD untuk PvP & survival dengan detail tajam."
+    },
+    {
+      "link": "https://mcpedl.com/overgrown-resource-pack/",
+      "nama": "Overgrown",
+      "fotolink": "https://mcpedl.com/storage/images/pack/???/icon.png",
+      "deskripsi": "Overhaul alam, menambah varian tanaman dan model baru."
+    },
+    {
+      "link": "https://mcpedl.com/hunger-points-on-food-names/",
+      "nama": "Item Info+",
+      "fotolink": "https://mcpedl.com/storage/images/pack/11506/icon.png",
+      "deskripsi": "Menampilkan poin kelaparan langsung di nama makanan."
+    },
+    {
+      "link": "https://mcpedl.com/bedrock-technical/",
+      "nama": "Bedrock Technical",
+      "fotolink": "https://mcpedl.com/storage/images/pack/???/icon.png",
+      "deskripsi": "Membantu build farm dengan spawn point dan hologram."
+    }
+  ],
+  "Addon": [
+    {
+      "link": "https://mcpedl.com/utilitycraft/",
+      "nama": "UtilityCraft",
+      "fotolink": "https://mcpedl.com/storage/images/addon/???/icon.png",
+      "deskripsi": "Kumpulan addon utility untuk mesin, spawner, dan QoL tweaks."
+    },
+    {
+      "link": "https://mcpedl.com/worldedit-be-addon/",
+      "nama": "WorldEdit: Bedrock Edition",
+      "fotolink": "https://mcpedl.com/storage/images/addon/???/icon.png",
+      "deskripsi": "Alat bangun cepat ala WorldEdit Java untuk Bedrock."
+    },
+    {
+      "link": "https://mcpedl.com/more-tools-addon/",
+      "nama": "More Tools Addon",
+      "fotolink": "https://mcpedl.com/storage/images/addon/???/icon.png",
+      "deskripsi": "Menambahkan 800 tools & 20 blok baru ke MCPE."
+    },
+    {
+      "link": "https://mcpedl.com/dlcraft-addonpack/",
+      "nama": "DLCraft",
+      "fotolink": "https://mcpedl.com/storage/images/addon/???/icon.png",
+      "deskripsi": "Addonpack yang menambah kesulitan dan QoL features."
+    },
+    {
+      "link": "https://mcpedl.com/artifacts-add-on-unofficial-port/",
+      "nama": "Artifacts Add‑on",
+      "fotolink": "https://mcpedl.com/storage/images/addon/???/icon.png",
+      "deskripsi": "Memberi item artifak unik seperti kacamata night vision."
+    },
+    {
+      "link": "https://mcpedl.com/random-add-on/",
+      "nama": "Random Additions Add‑on",
+      "fotolink": "https://mcpedl.com/storage/images/addon/???/icon.png",
+      "deskripsi": "Menambah bioma gua, struktur, dan mob ambience baru."
+    },
+    {
+      "link": "https://mcpedl.com/minimap-addon/",
+      "nama": "Minimap Addon",
+      "fotolink": "https://mcpedl.com/storage/images/addon/???/icon.png",
+      "deskripsi": "Menampilkan minimap real‑time tanpa penurunan performa."
+    },
+    {
+      "link": "https://mcpedl.com/more-ores-add-on-minecraft/",
+      "nama": "More Ores Add‑on",
+      "fotolink": "https://mcpedl.com/storage/images/addon/???/icon.png",
+      "deskripsi": "Menambahkan 28 ore baru, armor, dan tool variations."
+    },
+    {
+      "link": "https://mcpedl.com/true-survival-zombie-apocalypse/",
+      "nama": "True Survival – Zombie Apocalypse",
+      "fotolink": "https://mcpedl.com/storage/images/addon/???/icon.png",
+      "deskripsi": "Uji kelangsungan hidup Anda di dunia zombie."
+    },
+    {
+      "link": "https://mcpedl.com/euforias-items/",
+      "nama": "Euforia’s Items",
+      "fotolink": "https://mcpedl.com/storage/images/addon/???/icon.png",
+      "deskripsi": "Menambah berbagai item unik untuk crafting dan exploration."
+    }
+  ]
+}
