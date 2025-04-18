@@ -1,4 +1,4 @@
-[RS][Ultimate Survival Texture Pack][https://mcpedl.com/ultimate-survival-texture-pack/][Tekstur survival dengan peningkatan kualitas dan kejelasan item.][https://mcpedl.com/storage/images/pack/12796/icon.png]
+[Resource_pack][Ultimate Survival Texture Pack][https://mcpedl.com/ultimate-survival-texture-pack/][Tekstur survival dengan peningkatan kualitas dan kejelasan item.][https://mcpedl.com/storage/images/pack/12796/icon.png]
 [RS][Invisible Item Frame & Glow Item Frame][https://mcpedl.com/invisible-item-frame-glow-item-frame/][Membuat item frame tak terlihat dan bercahaya untuk dekorasi.][https://media.forgecdn.net/avatars/190/611/638022288950268243.png]
 [RS][ESP Texture Pack][https://mcpedl.com/esp-texture-pack-1-20-for-mcpe-bedrock/][Menandai chest, ores, dan entitas dengan outline warna.][https://mcpedl.com/storage/images/pack/15365/icon.png]
 [RS][Faithful 32x PE][https://mcpedl.com/faithful-32x32-pack/][Vanilla upgrade ke resolusi 32x32 tanpa ubah style.][https://mcpedl.com/storage/images/pack/3513/icon.png]
